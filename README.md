@@ -7,4 +7,5 @@ This repository showcase the many cybersecurity lab projects I have completed. T
 
 ## Table Of Contents
 
-### 1 Cybersecurity
+### 1 Cybersecurity basics
+
