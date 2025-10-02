@@ -8,4 +8,4 @@ This repository showcase the many cybersecurity lab projects I have completed. T
 ## Table Of Contents
 
 ### 1 Cybersecurity basics
-* [Chapter 1: The Linux Command Line](Chapter 1/CyberSecurity HW# 2.docx)
+* [Chapter 1: The Linux Command Line](Chapter 1/CyberSecurity HW 2.docx)
